@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A Simple tic-tac-toe written in Python!
+A Simple **Tic-Tac-Toe** written in Python!
